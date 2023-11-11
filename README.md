@@ -1,6 +1,6 @@
 # Dollars and Datanalytics
 
-DollarsandDatanalytics is a robust real-time financial analytics platform designed to empower users with insightful data analysis for informed decision-making. Leveraging the capabilities of Twilio Segment for streamlined data collection and management, this project seamlessly integrates with Databricks, Apache Spark, or Amazon S3 for powerful data processing.
+Dollars and Datanalytics is a robust real-time financial analytics platform designed to empower users with insightful data analysis for informed decision-making. Leveraging the capabilities of Twilio Segment for streamlined data collection and management, this project seamlessly integrates with Databricks, Apache Spark, or Amazon S3 for powerful data processing.
 
 ## Key Features
 
